@@ -1,0 +1,2 @@
+export const GET_TEMPLATES = 'GET_TEMPLATES';
+export const EDIT_TEMPLATE = 'EDIT_TEMPLATE';
